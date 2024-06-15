@@ -1,4 +1,37 @@
+#amy
 HOST-SUFFIX,ghvpie.xyz,local
 
+#LG
 HOST-SUFFIX,lgthinq.com,local
 HOST-SUFFIX,lgeapi.com,local
+HOST-SUFFIX,lgtvcommon.com,local
+HOST-SUFFIX,lgsmartplatform.com,local
+
+#iStat Menus weather
+HOST-SUFFIX,weather.bjango.com,DIRECT
+
+#PT
+HOST-SUFFIX,brokenstones.club,DIRECT
+HOST-SUFFIX,hdchina.org,DIRECT
+HOST-SUFFIX,redacted.ch,DIRECT
+HOST-SUFFIX,torrentday.com,DIRECT
+HOST-SUFFIX,hdchina.club,DIRECT
+HOST-SUFFIX,hd-sportbits.org,DIRECT
+HOST-SUFFIX,thegft.org,DIRECT
+HOST-SUFFIX,hdroute.org,DIRECT
+HOST-SUFFIX,asiandvdclub.org,DIRECT
+HOST-SUFFIX,jpopsuki.eu,DIRECT
+HOST-SUFFIX,sceneaccess.eu,DIRECT
+HOST-SUFFIX,totheglory.im,DIRECT
+HOST-SUFFIX,pt.whu.edu.cn,DIRECT
+HOST-SUFFIX,springsunday.net,DIRECT
+HOST-SUFFIX,m-team.cc,DIRECT
+HOST-SUFFIX,trancetraffic.com,DIRECT
+HOST-SUFFIX,freshon.tv,DIRECT
+HOST-SUFFIX,torrentleech.org,DIRECT
+HOST-SUFFIX,broadcasthe.net,DIRECT
+HOST-SUFFIX,passthepopcorn.me,DIRECT
+HOST-SUFFIX,waffles.ch,DIRECT
+HOST-SUFFIX,what.cd,DIRECT
+HOST-SUFFIX,u2.dmhy.org,DIRECT
+HOST-SUFFIX,open.cd,DIRECT
