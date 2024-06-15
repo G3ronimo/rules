@@ -1,11 +1,11 @@
 #amy
-HOST-SUFFIX,ghvpie.xyz,local
+HOST-SUFFIX,ghvpie.xyz,DIRECT
 
 #LG
-HOST-SUFFIX,lgthinq.com,local
-HOST-SUFFIX,lgeapi.com,local
-HOST-SUFFIX,lgtvcommon.com,local
-HOST-SUFFIX,lgsmartplatform.com,local
+HOST-SUFFIX,lgthinq.com,DIRECT
+HOST-SUFFIX,lgeapi.com,DIRECT
+HOST-SUFFIX,lgtvcommon.com,DIRECT
+HOST-SUFFIX,lgsmartplatform.com,DIRECT
 
 #iStat Menus weather
 HOST-SUFFIX,weather.bjango.com,DIRECT
