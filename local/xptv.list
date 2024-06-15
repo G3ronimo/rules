@@ -117,9 +117,9 @@ host, openapi.aliyundrive.com, DIRECT
 host, auth.aliyundrive.com, DIRECT
 host, api.aliyundrive.com, DIRECT
 #豆瓣封面
-host-suffix, doubanio.com, DIRECT
+#host-suffix, doubanio.com, DIRECT
 #同步数据
-host, gateway.icloud.com, DIRECT
+#host, gateway.icloud.com, DIRECT
 #杂七杂八的播放
 host, ikunzyapi.com, DIRECT
 host-keyword, ikzybf, DIRECT
