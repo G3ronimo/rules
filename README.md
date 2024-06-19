@@ -1,1 +1,3 @@
-# quantumult-rules
+# rules
+代理配置文件规则
+包括ssr+ 不代理的名单
