@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,ghvpie.xyz,DIRECT
 DOMAIN-SUFFIX,ssr.sh,DIRECT
 
+#Synology
+DOMAIN-SUFFIX,quickconnect.cn,DIRECT
+
 #LG
 DOMAIN-SUFFIX,lgthinq.com,DIRECT
 DOMAIN-SUFFIX,lgeapi.com,DIRECT
