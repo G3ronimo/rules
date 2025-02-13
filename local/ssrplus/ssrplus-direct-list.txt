@@ -114,6 +114,7 @@ vip.ffzyread1.com
 vip.ffzy-play3.com
 vip.ffzyread.com
 www.imgikzy.com
+
 gateway.icloud.com
 metrics.icloud.com
 doubanio.com
@@ -202,7 +203,6 @@ op.ysdqjs.cn
 www.subaibaiys.com
 360zy.com
 vod.lyhuicheng.com
-ffzy
 www.mdzyapi.com
 heimuer.tv
 heimuer.xyz
@@ -254,9 +254,7 @@ bxgbnet.com
 xxya88.com
 zpsps.com
 bbffvip.com
-rrcdnbf
 iqyi.xiaohuangrentv.com
-.jisu.com
 pic.niuniuzy.info
 qrstt.com
 stuuvwy.com
@@ -276,7 +274,6 @@ play.hhuus.com
 p.hhwenjian.com
 jszyapi.com
 snzypic.vip
-.hiij
 nopqq.vip
 uvwwx.vip
 pqqrs.vip
@@ -307,7 +304,6 @@ tuvvv.vip
 ijkmnno.com
 deefg.vip
 lmnoprs.com
-shes
 yhzybf.com
 wgslsw.com
 pic.jegms.com
@@ -315,12 +311,10 @@ collect.wolongzyw.com
 pic.wlongimg.com
 cdn.wls
 cdn.wlcdn
-.huya
 stuv67.com
 hjjk22.com
 jkkl23.com
 v5.xyaa88.com
-subo
 play.subokk.com
 xlzyd.com
 www.mdzypic.com
@@ -430,7 +424,6 @@ pic3.yzzyimages.com
 img.98ha.com
 challenge.rivers.chaitin.cn
 image.maimn.com
-baidu.com
 img.liangzipic.com
 imagev2.xmcdn.com
 pic.imgdb.cn
