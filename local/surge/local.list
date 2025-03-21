@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,ssr.sh,DIRECT
 #Synology
 DOMAIN-SUFFIX,quickconnect.cn,DIRECT
 
+#Plex
+DOMAIN,v4.plex.tv,DIRECT
+
 #LG
 DOMAIN-SUFFIX,lgthinq.com,DIRECT
 DOMAIN-SUFFIX,lgeapi.com,DIRECT
