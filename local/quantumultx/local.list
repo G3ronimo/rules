@@ -5,6 +5,9 @@ HOST-SUFFIX,ssr.sh,DIRECT
 #Synology
 HOST-SUFFIX,quickconnect.cn,DIRECT
 
+#Plex
+HOST-SUFFIX,v4.plex.tv,DIRECT
+
 #LG
 HOST-SUFFIX,lgthinq.com,DIRECT
 HOST-SUFFIX,lgeapi.com,DIRECT
