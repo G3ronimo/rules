@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,lgsmartplatform.com,DIRECT
 
 #iStat Menus weather
 DOMAIN-SUFFIX,weather.bjango.com,DIRECT
+DOMAIN-SUFFIX,weather.istatmenus.app,DIRECT
 
 #PT
 DOMAIN-SUFFIX,brokenstones.is,DIRECT
